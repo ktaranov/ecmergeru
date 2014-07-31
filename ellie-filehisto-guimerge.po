@@ -19,114 +19,114 @@ msgid " #"
 msgstr ""
 
 msgid " (autodetected)"
-msgstr ""
+msgstr " (автоматическое определение)"
 
 msgid " - "
-msgstr ""
+msgstr " - "
 
 msgid " - Diff, merge and edit tool"
-msgstr ""
+msgstr " - Инструмент для сравнения, слияния и редактирования"
 
 msgid " - Limited evaluation version"
-msgstr ""
+msgstr " - Ограниченная ознакомительная версия"
 
 msgid "#0 very large, searching only first #1 bytes"
-msgstr ""
+msgstr "#0 очень большой, поиск только #1 байт"
 
 msgid "$0"
-msgstr ""
+msgstr "$0"
 
 msgid "$0 ($1)"
-msgstr ""
+msgstr "$0 ($1)"
 
 msgid "$0 - defaults ($1)"
-msgstr ""
+msgstr "$0 - по умолчанию ($1)"
 
 msgid "$0 Conflict files"
-msgstr ""
+msgstr "$0 Конфликтующих файлов"
 
 msgid "$0 documents were opened. Do you want to continue?"
-msgstr ""
+msgstr "$0 документов было открыто. Вы хотите продолжить?"
 
 msgid ""
 "$0 failed to produce expected output, though it reports normal execution."
-msgstr ""
+msgstr "$0 не удалось получить ожидаемый вывод, однако это сообщает о нормальном выполнении. "
 
 msgid "$0 h $1 min $2 s  "
-msgstr ""
+msgstr "$0 ч $1 мин $2 с  "
 
 msgid "$1 day(s) remaining"
-msgstr ""
+msgstr "$1 день(й) осталось"
 
 msgid "$1, because the following error occured: $0"
-msgstr ""
+msgstr "$1, потому что следующая ошибка произошла: $0"
 
 msgid "$1, because the following error occured: $0 ($2)"
-msgstr ""
+msgstr "$1, потому что следующая ошибка произошла: $0 ($2)"
 
 #, c-format
 msgid "%ld %s (%ld to be listed)"
-msgstr ""
+msgstr "%ld %s (%ld должны быть перечислены)"
 
 #, c-format
 msgid "%ld files, %ld folders"
-msgstr ""
+msgstr "%ld файлов, %ld папок"
 
 #, c-format
 msgid "%ld items"
-msgstr ""
+msgstr "%ld пунктов"
 
 #, c-format
 msgid "%lu occurrences"
-msgstr ""
+msgstr "%lu вхождений"
 
 #, c-format
 msgid "%s bytes"
-msgstr ""
+msgstr "%s байтов"
 
 #, c-format
 msgid "%s files"
-msgstr ""
+msgstr "%s файлов"
 
 #, c-format
 msgid "%s necessary to write to %s but disabled. Skipping item"
-msgstr ""
+msgstr "%s необходимо для записи для %s но не сработало. Пропустить объект"
 
 msgid "&1:1"
-msgstr ""
+msgstr "&1:1"
 
 msgid "&About Ellie Computing Merge"
 msgstr "&About Ellié Computing Merge"
 
 msgid "&Actions"
-msgstr ""
+msgstr "&Действия"
 
 msgid "&Activate"
-msgstr ""
+msgstr "&Активация"
 
 msgid "&Application"
-msgstr ""
+msgstr "&Приложение"
 
 msgid "&Auto-detect"
-msgstr ""
+msgstr "&Автоопределение"
 
 msgid "&Auto-run unless Shift is pressed"
-msgstr ""
+msgstr "&Автозапуск пока Шифт не нажат"
 
 msgid "&Bottom"
-msgstr ""
+msgstr "&Нижняя часть"
 
 msgid "&Browse..."
-msgstr ""
+msgstr "&Просмотр..."
 
 msgid "&Buy Now"
-msgstr ""
+msgstr "&Купить сейчас"
 
 msgid "&CSV"
 msgstr ""
 
 msgid "&Center"
-msgstr ""
+msgstr "&Центр"
 
 msgid "&Channel per channel"
 msgstr ""
