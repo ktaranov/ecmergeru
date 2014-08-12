@@ -132,282 +132,283 @@ msgid "&Channel per channel"
 msgstr ""
 
 msgid "&Clear all Bookmarks"
-msgstr ""
+msgstr "&Очистить все закладки"
 
 msgid "&Close"
-msgstr ""
+msgstr "&Закрыть"
 
 msgid "&Close Tab(s)"
-msgstr ""
+msgstr "&Закрыть вкладку(и)"
 
 msgid "&Close all documents"
-msgstr ""
+msgstr "&Закрыть все документы"
 
 msgid "&Close..."
-msgstr ""
+msgstr "&Закрыть..."
 
 msgid "&Compact XML..."
-msgstr ""
+msgstr "&Сжать XML..."
 
 msgid "&Comparison/Merge"
-msgstr ""
+msgstr "&Сравнение/Слияние"
 
 msgid "&Comparisons Statistics..."
-msgstr ""
+msgstr "&Сравнение статистик"
 
 msgid "&Copy"
-msgstr ""
+msgstr "&Копировать"
 
 msgid "&Customize"
-msgstr ""
+msgstr "&Настроить"
 
 msgid "&Dec"
 msgstr ""
 
 msgid "&Decimal"
-msgstr ""
+msgstr "&Десятичный"
 
 msgid "&Difference"
-msgstr ""
+msgstr "&Разница"
 
 msgid "&Document"
-msgstr ""
+msgstr "&Документ"
 
 msgid "&Edit"
-msgstr ""
+msgstr "&Редактировать"
 
 msgid "&Edit..."
-msgstr ""
+msgstr "&Редактировать..."
 
 msgid "&Ellié Computing on the Web"
-msgstr "&Ellié Computing on the Web"
+msgstr "&Ellié Computing в интернете"
 
 msgid "&Expand All"
-msgstr ""
+msgstr "&Развернуть все"
 
 msgid "&Fill from Clipboard"
-msgstr ""
+msgstr "&Заполнить из буфера обмена"
 
 msgid "&Find..."
-msgstr ""
+msgstr "&Найти..."
 
 msgid "&Getting Started..."
-msgstr ""
+msgstr "&Начать..."
 
 msgid "&Go To"
-msgstr ""
+msgstr "&Перейти"
 
 msgid "&Go To Line..."
-msgstr ""
+msgstr "&Перейти к строке..."
 
 msgid "&Go to offset..."
-msgstr ""
+msgstr "&Перейти к смещению..."
 
 msgid "&HTML"
 msgstr ""
 
 msgid "&Help"
-msgstr ""
+msgstr "&Помощь"
 
 msgid "&Help Topics..."
-msgstr ""
+msgstr "&Разделы помощи..."
 
 msgid "&Hexadecimal"
-msgstr ""
+msgstr "&Шестнадцатеричный"
 
 msgid "&Import"
-msgstr ""
+msgstr "&Импорт"
 
 msgid "&Import from clipboard"
-msgstr ""
+msgstr "&Импорт из буфера обмена"
 
 msgid "&Knowledge Base"
-msgstr ""
+msgstr "&База знаний"
 
 msgid "&Left"
-msgstr ""
+msgstr "&Влево"
 
 msgid "&Line number (1 - $0):"
-msgstr ""
+msgstr "&Номер строки (1-$0):"
 
 msgid "&Macros"
-msgstr ""
+msgstr "&Макрос"
 
 msgid "&Macros/Scripting help..."
-msgstr ""
+msgstr "&Макрос/Скрипты помощь..."
 
 msgid "&Mark All"
-msgstr ""
+msgstr "&Пометить все"
 
 msgid "&Mask similarities"
-msgstr ""
+msgstr "&Маска сходства"
 
 msgid "&Middle"
-msgstr ""
+msgstr "&Середина"
 
 msgid "&New Site..."
-msgstr ""
+msgstr "&Новый сайт..."
 
 msgid "&New Text File"
-msgstr ""
+msgstr "&Новый текстовый файл"
 
 msgid "&New..."
-msgstr ""
+msgstr "&Новый..."
 
 msgid "&Next Bookmark"
-msgstr ""
+msgstr "&Следующая закладка"
 
 msgid "&Open file..."
-msgstr ""
+msgstr "&Открыть файл..."
 
 msgid "&Open macro folder of"
-msgstr ""
+msgstr "&Открыть макро папку"
 
 msgid "&Paste"
-msgstr ""
+msgstr "&Вставить"
 
 msgid "&Preferences..."
-msgstr ""
+msgstr "&Настройки..."
 
 msgid "&Pretty-print XML..."
-msgstr ""
+msgstr "&Отформатировать XML..."
 
 msgid "&Previous Bookmark"
-msgstr ""
+msgstr "&Предыдущая Закладка"
 
 msgid "&Redo"
-msgstr ""
+msgstr "&Переделать"
 
 msgid "&Register..."
-msgstr ""
+msgstr "&Регистрация..."
 
 msgid "&Reload macro files"
-msgstr ""
+msgstr "&Перезагрузить макро файлы"
 
 msgid "&Reopen with Encoding..."
-msgstr ""
+msgstr "&Переоткрыть с кодировкой..."
 
 msgid "&Replace"
-msgstr ""
+msgstr "&Заменить"
 
 msgid "&Replace >>"
-msgstr ""
+msgstr "&Заменить>>"
 
 msgid "&Reset location"
-msgstr ""
+msgstr "&Сбросить местоположение"
 
 msgid "&Respect aspect ratio"
-msgstr ""
+msgstr "&Учитывать соотношение сторон"
 
 msgid "&Right"
-msgstr ""
+msgstr "&Вправо"
 
 msgid "&Run"
-msgstr ""
+msgstr "&Запустить"
 
 msgid "&Save log"
-msgstr ""
+msgstr "&Сохранить лог"
 
 msgid "&Save result"
-msgstr ""
+msgstr "&Сохранить результат"
 
 msgid "&Select as result location"
-msgstr ""
+msgstr "&Выберите в качестве окончательного местоположения"
 
 msgid "&Show Files Types..."
-msgstr ""
+msgstr "&Показать типы файлов..."
 
 msgid "&Show Sites"
-msgstr ""
+msgstr "&Показать сайты"
 
 msgid "&Side"
-msgstr ""
+msgstr "&Сторона"
 
 msgid "&Single Sided"
-msgstr ""
+msgstr "&Односторонний"
 
 msgid "&Sites"
-msgstr ""
+msgstr "&Сайты"
 
 msgid "&Submit"
-msgstr ""
+msgstr "&Выполнить"
 
 msgid "&Submit a problem..."
-msgstr ""
+msgstr "&Сообщить о проблеме..."
 
 msgid "&Tabs"
-msgstr ""
+msgstr "&Вкладки"
 
 msgid "&Tabs..."
-msgstr ""
+msgstr "&Вкладки..."
 
 msgid "&Technical Support"
-msgstr ""
+msgstr "&Техническая поддержка"
 
 msgid "&Test"
-msgstr ""
+msgstr "&Тест"
 
 msgid "&Text"
-msgstr ""
+msgstr "&Текст"
 
 msgid "&Tip of the Day..."
-msgstr ""
+msgstr "&Подсказка дня"
 
 msgid "&Toggle Bookmark"
-msgstr ""
+msgstr "&Установить закладку"
 
 msgid "&Toolbars"
-msgstr ""
+msgstr "&Линейка инструментов"
 
 msgid "&Top"
-msgstr ""
+msgstr "&Вверх"
 
 msgid "&Undo"
-msgstr ""
+msgstr "&Отменить"
 
 msgid "&User"
-msgstr ""
+msgstr "&Пользователь"
 
 msgid "&View"
-msgstr ""
+msgstr "&Вид"
 
 msgid "&Wrap"
-msgstr ""
+msgstr "&Обернуть"
 
 msgid "&Write all results"
-msgstr ""
+msgstr "&Записать все результаты"
 
 msgid ""
 "'$0' was modified.\n"
 "Do you want to save it, close without saving or continue editing?"
-msgstr ""
+msgstr "'$0' было изменено.\n"
+"Вы хотите сохранить изменения, закрыть без сохранения или продолжить редактирование?"
 
 msgid "(Passphrase is asked once per session and never saved)"
-msgstr ""
+msgstr "(Секретное слово запрашивается один раз за сессию и никогда не сохраняется)"
 
 msgid "(SSH client will use ssh-agent or pageant to get keys)"
-msgstr ""
+msgstr "(SSH клиент будет использовать ssh-агента или конкурс чтобы получить ключи)"
 
 msgid "(YYYY-MM-DD[,hh:mm:ss])"
-msgstr ""
+msgstr "(YYYY-MM-DD[,hh:mm:ss])"
 
 msgid "(converters activation is always per options set)"
-msgstr ""
+msgstr "(активация конвертеров является всегда вариантом из набора)"
 
 msgid "(empty)"
-msgstr ""
+msgstr "(пустой)"
 
 msgid "(file types activation is always per options set)"
 msgstr ""
 
 msgid "(in minutes)"
-msgstr ""
+msgstr "(в минутах)"
 
 msgid "(no name)"
-msgstr ""
+msgstr "(без названия)"
 
 msgid "(use 0 for default)"
-msgstr ""
+msgstr "(использовать 0 по умолчанию)"
 
 msgid "*.*"
 msgstr ""
@@ -419,7 +420,7 @@ msgid "-"
 msgstr ""
 
 msgid "-x and -E are exclusive"
-msgstr ""
+msgstr "-x и -E являются исключительным"
 
 msgid "1/3"
 msgstr ""
@@ -431,7 +432,7 @@ msgid "2-way"
 msgstr ""
 
 msgid "2-way merge"
-msgstr ""
+msgstr "2-х стороннее слияние"
 
 msgid "2-way or 3-way?"
 msgstr ""
@@ -468,93 +469,98 @@ msgid ""
 "A new version of the software may be available. Do you want to check it now "
 "on Ellié Computing website?"
 msgstr ""
-"A newer version of the software may be available. Do you want to check it "
-"now on Ellié Computing website?"
+"Новая версия программы возможно доступна. Вы хотите проверить это "
+"сейчас на сайте Ellié Computing?"
 
 msgid ""
 "A session saves the state of a comparison with its URLs and options sets.\n"
 "It is automatically created when a comparison is closed. It is the "
 "equivalent of an ECMT file."
 msgstr ""
+"Сессия сохранила сравнение данных URLs и установленных настроек.\n"
+"аналог ECMT файла."
 
 msgid "About Ellie Computing Merge"
-msgstr "About Ellié Computing Merge"
+msgstr "О Ellié Computing Merge"
 
 msgid "Access errors"
-msgstr ""
+msgstr "Ошибки доступа"
 
 msgid "Action type"
-msgstr ""
+msgstr "Тип действия"
 
 msgid "Actions log:"
-msgstr ""
+msgstr "Лог активности:"
 
 msgid "Activate for:"
-msgstr ""
+msgstr "Активировать для:"
 
 msgid "Activation conditions"
-msgstr ""
+msgstr "Условия активации"
 
 msgid ""
 "Activation of sharing will overwrite options with those of application, do "
 "you want to continue?\n"
 "(to save your data, use the import functionality from the matching "
 "application panel)"
-msgstr ""
+msgstr "Активация расшаривания перезапишет настройки для данного приложения, "
+"вы хотите продолжить?\n"
+"(чтобы сохранит ваши данные, используйте импорт функциональности с соответствующей"
+"панели приложения)"
 
 msgid "Adds/Removes languages in this menu..."
-msgstr ""
+msgstr "Добавить/Удалить языки в этом меню"
 
 msgid "Advanced Text Comparisons"
-msgstr ""
+msgstr "Расширенное сравнение текста"
 
 msgid "Alignment"
-msgstr ""
+msgstr "Выравнивание"
 
 msgid "All Files"
-msgstr ""
+msgstr "Все файлы"
 
 msgid "All tags"
-msgstr ""
+msgstr "Все тэги"
 
 msgid "Allow comparisons of files content in background"
-msgstr ""
+msgstr "Разрешить сравнение содержимого файлов в фоне"
 
 msgid "Allow comparisons of files content in background at startup"
-msgstr ""
+msgstr "Разрешить сравнение содержимого файлов в фоне при запуске"
 
 msgid "Allow conversions approximations"
-msgstr ""
+msgstr "Разрешить приблизительное преобразование"
 
 msgid "Allow max line moves of"
-msgstr ""
+msgstr "Разрешить перенос макс строки с"
 
 msgid "Allow partial patch application"
-msgstr ""
+msgstr "Разрешить частичное обновление приложения"
 
 msgid "Allow to reduce context by"
-msgstr ""
+msgstr "Разрешить уменьшить содержимое на"
 
 msgid "Allows comparisons of files content in background"
-msgstr ""
+msgstr "Разрешить сравнение содержимого файлов в фоне"
 
 msgid "Allows you to submit a problem to Ellié Computing technical staff"
-msgstr ""
+msgstr "Разрешить выполнить запрос о проблеме в технический отдел Ellié Computing"
 
 msgid "Always"
-msgstr ""
+msgstr "Всегда"
 
 msgid "Always check files content"
-msgstr ""
+msgstr "Всегда проверять содержимое файлов"
 
 msgid "Always consider files with different dates as different"
-msgstr ""
+msgstr "Всегда считать файлы с разными датами различными"
 
 msgid "Always consider files with different sizes as different"
-msgstr ""
+msgstr "Всегда считать файлы с разными размерами различными"
 
 msgid "Always consider files with identical dates as equal"
-msgstr ""
+msgstr "Всегда считать файлы с одинаковыми датами одинаковыми"
 
 msgid ""
 "An ECMerge Status for Text Comparison saves the comparison and display "
