@@ -438,7 +438,7 @@ msgid "2-way or 3-way?"
 msgstr ""
 
 msgid "2-way rules"
-msgstr ""
+msgstr "правила 2-х стороннего"
 
 msgid "2/3"
 msgstr ""
@@ -505,7 +505,7 @@ msgid ""
 "application panel)"
 msgstr "Активация расшаривания перезапишет настройки для данного приложения, "
 "вы хотите продолжить?\n"
-"(чтобы сохранит ваши данные, используйте импорт функциональности с соответствующей"
+"(чтобы сохранить ваши данные, используйте импорт функциональности с соответствующей"
 "панели приложения)"
 
 msgid "Adds/Removes languages in this menu..."
@@ -568,44 +568,49 @@ msgid ""
 "save a text file partially merged and reopen it later. ECMerge can also "
 "apply resolved conflicts and manual editions if the source files changed "
 "(not too much) since the .ecms document was saved."
-msgstr ""
+msgstr "Статус ECMerge для текстового сравнения сохраняет результаты и сравнения и отображает "
+"настройки, а также позволяет решать конфликты и делать ручное редактирование. "
 
 msgid "Ancestor"
-msgstr ""
+msgstr "Предок"
 
 msgid ""
 "Ancestor information was ignored because you are using Standard edition of "
 "ECMerge"
-msgstr ""
+msgstr
+"Информация от предка была проигнорирована потому что вы используете стандартную версию"
+"ECMerge"
 
 msgid "Ancestor version"
-msgstr ""
+msgstr "Версия предка"
 
 msgid "Ancestor:"
-msgstr ""
+msgstr "Предок:"
 
 msgid "Anonymous"
-msgstr ""
+msgstr "Анонимный"
 
 msgid ""
 "Another document viewing the same files is already opened.\n"
 "Do you want to reuse it?"
-msgstr ""
+msgstr
+ "Другой документ уже просматривает этот же открытый файл.\n"
+"Вы хотите использовать его?"
 
-msgid "Answers 'no' to specified settings (comma separated list)"
-msgstr ""
+msgid "Answers 'no' to specified settings (comma separated listщщ )"
+msgstr "Ответить 'нет' для выбранных опций (CSV)"
 
 msgid "Answers 'yes' to specified settings (comma separated list)"
-msgstr ""
+msgstr "Ответить 'Да' для выбранных опций (CSV)"
 
 msgid "Any document type"
-msgstr ""
+msgstr "Любой тип Документа"
 
 msgid "Application"
-msgstr ""
+msgstr "Приложение"
 
 msgid "Application settings file to use instead of default location"
-msgstr ""
+msgstr "Прилржение"
 
 msgid "Application:"
 msgstr ""

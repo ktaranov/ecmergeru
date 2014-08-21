@@ -352,10 +352,10 @@ msgid "SCC Tool"
 msgstr "SCC инструмент"
 
 msgid "SCC tool info file with bad version number"
-msgstr ""
+msgstr "Информационный файл SCC инструмента с некорректной версией"
 
 msgid "SCC tool info file with not well-formed XML."
-msgstr ""
+msgstr " Информационный файл SCC инструмента с невалидным XML."
 
 msgid "S_kip"
 msgstr "Пропустить"
@@ -525,7 +525,7 @@ msgid "_Yes"
 msgstr "Да"
 
 msgid "a setting keyword may not be empty"
-msgstr ""
+msgstr "ключевое слово не может быть пустым"
 
 msgid "cannot find selected text in tree list view"
 msgstr "выбранный текст не найден в списке"
