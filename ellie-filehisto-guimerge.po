@@ -610,247 +610,251 @@ msgid "Application"
 msgstr "Приложение"
 
 msgid "Application settings file to use instead of default location"
-msgstr "Прилржение"
+msgstr "Использовать файл настроек приложения взамен располодения по умолчанию"
 
 msgid "Application:"
-msgstr ""
+msgstr "Приложение:"
 
 msgid "Apply merge rules..."
-msgstr ""
+msgstr "Применить правила слияния..."
 
 msgid "Arguments:"
-msgstr ""
+msgstr "Аргументы:"
 
 msgid "Around differences"
-msgstr ""
+msgstr "Округлить различия"
 
 msgid "Arrange panels horizontally/vertically"
-msgstr ""
+msgstr "Выровнять панели горизонтально/вертикально"
 
 msgid "Arrow"
-msgstr ""
+msgstr "Стрелка"
 
 msgid "Ask before"
-msgstr ""
+msgstr "Спросить прежде"
 
 msgid "Asynchronous (hidden)"
-msgstr ""
+msgstr "Асинхронно (скрытно)"
 
 msgid "Attributes:"
-msgstr ""
+msgstr "Атрибуты:"
 
 msgid "Auto"
-msgstr ""
+msgstr "Авто"
 
 msgid "Auto-merge success"
-msgstr ""
+msgstr "Авто слияние успешно"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматически"
 
 msgid "Automatic reconnection after"
-msgstr ""
+msgstr "Автоматически соедениться после"
 
 msgid ""
 "Automatically check for updates at ECMerge start-up. The displayed page will "
 "list previous ECMerge versions along with a list of new features and bug "
 "fixes."
-msgstr ""
+msgstr "Автоматически проверять обновления ECMerge при запуске. Отображаемая страница будет содержать список предыдущих версий ECMerge вместе со списком новых возможностей и исправлений "
+"ошибок."
 
 msgid "Automatically compare files content when unsure"
-msgstr ""
+msgstr "Автоматически сравнивать содержание файлов в случае неопределенности"
 
 msgid "Background..."
-msgstr ""
+msgstr "Фон..."
 
 msgid "Bare &XML"
-msgstr ""
+msgstr "Чистый &XML"
 
 msgid "Base URL:"
-msgstr ""
+msgstr "Базовый URL:"
 
 msgid "Base file should use this as the preferred encoding"
-msgstr ""
+msgstr "Базовый файл должен использовать данную предпочтительную кодировку"
 
 msgid "Base file should use this title"
-msgstr ""
+msgstr "Базовый файл должен испооьзовать данный заголовок"
 
 msgid "Because of following error: $0"
-msgstr ""
+msgstr "В следствие следующей ошибки: $0"
 
 msgid "Bidirectional consolidation"
-msgstr ""
+msgstr "Двунаправленная консолилация"
 
 msgid "Bidon..."
 msgstr ""
 
 msgid "Binary Comparisons"
-msgstr ""
+msgstr "Бинарное сравнение"
 
 msgid "Binary Document"
-msgstr ""
+msgstr "Бинарный Документ"
 
 #, c-format
 msgid "Binary copy from %s to %s"
-msgstr ""
+msgstr "Бинарнре копирование с %s по %s"
 
 msgid "Binary document"
-msgstr ""
+msgstr "Бинарный документ"
 
 msgid ""
 "Binary documents can compare any files especially those that cannot be "
 "converted\n"
 "into text or image."
-msgstr ""
+msgstr "Бинарные документы могут сравнивать любые файлы особенно те, которые не могут быть "
+"преобразованы\n"
+"в текст или изображение"
 
 msgid "Binary equality test"
-msgstr ""
+msgstr "Бинарный тест равенства"
 
 msgid "Binary file field"
-msgstr ""
+msgstr "Бинарное поле файла"
 
 msgid "Blanking"
-msgstr ""
+msgstr "Заглушка"
 
 msgid "Blocks of interest:"
-msgstr ""
+msgstr "Блоки влияния"
 
 msgid "Boo&kmarks"
 msgstr ""
 
 msgid "Bookmark"
-msgstr ""
+msgstr "Закладка"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "Закладки"
 
 msgid "Both"
-msgstr ""
+msgstr "Оба"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Внизу"
 
 msgid "Branch:"
-msgstr ""
+msgstr "Ветка:"
 
 msgid "Browse"
-msgstr ""
+msgstr "Просмотр"
 
 msgid "Browse in external explorer"
-msgstr ""
+msgstr "Просмотр во внешнем проводнике"
 
 msgid "Browser"
-msgstr ""
+msgstr "Браузер"
 
 msgid "Buy now"
-msgstr ""
+msgstr "Купить"
 
 msgid "C&ollapse All"
 msgstr ""
 
 msgid "CSS"
-msgstr ""
+msgstr "CSS"
 
 msgid "CSS Stylesheet"
-msgstr ""
+msgstr "CSS стили"
 
 msgid "CSS to use when generating HTML reports:"
-msgstr ""
+msgstr "CSS для использования при генерации HTML отчетов:"
 
 msgid "Cannot copy from and to the same panel"
-msgstr ""
+msgstr "Не получается скопировать на ту же панель"
 
 msgid "Cannot export in given format based on current source files"
-msgstr ""
+msgstr "Невозможно экспортировать в полученном формате, основанном на текущих исходных файлах"
 
 msgid "Cannot find help file $0."
-msgstr ""
+msgstr "Невозможно найти файл помощи $0."
 
 msgid "Cannot generate a patch from a single data source"
-msgstr ""
+msgstr "Невозможно сгенерировать патч с единичного источника данных"
 
 msgid "Cannot handle non-local path $0"
-msgstr ""
+msgstr "Невозможно обойтись без нелокального пути $0"
 
 msgid ""
 "Cannot load document because your serial number for Standard edition does "
 "not allow documents with ancestor."
-msgstr ""
+msgstr "Невозможно загрузить документ потому что серийный номер Стандартного издания не "
+"позволяет использовать документы с предками"
 
 msgid "Change count"
-msgstr ""
+msgstr "Изменить количество"
 
 msgid "Change images alignment"
-msgstr ""
+msgstr "Изменить выравнивание изображений"
 
 msgid "Changed"
-msgstr ""
+msgstr "Изменненый"
 
 msgid "Changes count"
-msgstr ""
+msgstr "Изменить количество"
 
 msgid "Changes the application preferences"
-msgstr ""
+msgstr "Изменить настрйоки приложения"
 
 msgid "Changes the view and comparison options"
-msgstr ""
+msgstr "Изменить вид и настройки сравнения"
 
 msgid "Changing access rights"
-msgstr ""
+msgstr "Изменить права доступа"
 
 msgid "Channel per channel"
-msgstr ""
+msgstr "Канал на канал"
 
 msgid "Character encoding used to create files:"
-msgstr ""
+msgstr "Кодировка символов испльзуемая для создания файлов:"
 
 msgid "Check (place holder)"
-msgstr ""
+msgstr "Проверить (метка заполнитель)"
 
 msgid "Check date and size"
-msgstr ""
+msgstr "Проверить дату и размер"
 
 msgid "Check exit code"
-msgstr ""
+msgstr "Проверить код выхода"
 
 msgid "Check files content if date or size are different"
-msgstr ""
+msgstr "Проверить содержимое файлов если дата или размер отличаются"
 
 msgid "Check for &Updates"
-msgstr ""
+msgstr "Проверить &Обновления"
 
 msgid "Check for Updates"
-msgstr ""
+msgstr "Проверить обновления"
 
 msgid "Check for software updates in background"
-msgstr ""
+msgstr "Проверка обновлений в фоне"
 
 msgid "Check for software updates periodically"
-msgstr ""
+msgstr "Проверять наличие обновлений периодически"
 
 msgid "Check the columns to be displayed:"
-msgstr ""
+msgstr "Выбор столбцов для отображения:"
 
 msgid "Check the locations where to write result:"
-msgstr ""
+msgstr "Проверка местоположения для записи результатов:"
 
 msgid "Check the shells for which to enable the extension:"
-msgstr ""
+msgstr "Проверка оболочек для которых необходимо включить расширение"
 
 msgid "Checkout"
-msgstr ""
+msgstr "Контроль"
 
 msgid "Checks the Ellie Computing web site for product updates"
-msgstr "Checks the Ellié Computing web site for product updates"
+msgstr "Проверка сайта Ellié Computing на наличие обновлений"
 
 msgid "Checksums:"
-msgstr ""
+msgstr "Контрольные суммы:"
 
 msgid "ChoiceItem"
-msgstr ""
+msgstr "Выбор"
 
 msgid "Choose \"2-way\" when you only have 2 items to compare."
-msgstr ""
+msgstr "Выберите \"2-way\" только когда вы имеете 2 объекта для сравнения."
 
 msgid ""
 "Choose \"3-way\" when you know/have access to a common ancestor, i.e., an "
@@ -860,156 +864,168 @@ msgid ""
 "or a SCC item (using date/label detail or automatically provided by your "
 "SCC), or a ZIP\n"
 "snapshot of a folder tree."
-msgstr ""
+msgstr "Выберите \"3-way\ только когда вы знаете основного предка, т.е. "
+"старая\n"
+"версия от левой и правой версии вырезана. Это может быть файл или "
+"директория выбранная вами \n"
+"или SCC объект (использующий дату/метку деталии или автоматичски предусмотренный вашим "
+"SCC), или ZIP\n"
+"снимок дерева папок"
 
 msgid ""
 "Choose \"Diff\" when you wish to compare files/folders without\n"
 "editing any source."
-msgstr ""
+msgstr "Выберите \"Diff\" только когда вы хотите сравнить файлы/директории без\n"
+"редактирования любого источника."
 
 msgid ""
 "Choose \"Merge\" when you wish to combine files/folders content\n"
 "into one or several target locations."
-msgstr ""
+msgstr "Выберите \"Merge\" только когда вы хотите объеденить содержимое файлов/директорий\n"
+"в одно или несколько местоположений."
 
 msgid "Choose Character Encoding"
-msgstr ""
+msgstr "Выберите кодировку символов"
 
 msgid "Choose a file type:"
-msgstr ""
+msgstr "Выберите тип файла:"
 
 msgid "Choose the default result of the merge in typical situations:"
-msgstr ""
+msgstr "Выберите основной результат слияная в типичных ситуациях:"
 
 msgid "Choose the rules to apply:"
-msgstr ""
+msgstr "Выберите правила для применения:"
 
 msgid "Choose which to keep"
-msgstr ""
+msgstr "Выберите что сохранить"
 
 msgid "Circle"
-msgstr ""
+msgstr "Круг"
 
 msgid "Clear all Bookmarks"
-msgstr ""
+msgstr "Очистить все Закладки"
 
 msgid "Clears all bookmarks in the current document"
-msgstr ""
+msgstr "Очистить все закладки в текущем документе"
 
 msgid "Clipboard"
-msgstr ""
+msgstr "Буфер обмена"
 
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 msgid "Closes all opened documents"
-msgstr ""
+msgstr "Закрыть все открытые документы"
 
 msgid "Closes the current document"
-msgstr ""
+msgstr "Закрыть текущий документ"
 
 msgid "Closes the current tab"
-msgstr ""
+msgstr "Закрыть текущую вкладку"
 
 #, c-format
 msgid "Col %d"
 msgstr ""
 
 msgid "Colour..."
-msgstr ""
+msgstr "Цвет..."
 
 msgid "Coloured stylesheet"
-msgstr ""
+msgstr "Цветовая схема"
 
 msgid "Colours"
-msgstr ""
+msgstr "Цвета"
 
 msgid "Columns"
-msgstr ""
+msgstr "Столбцы"
 
 msgid "ComboItem"
-msgstr ""
+msgstr "Комбо бокс"
 
 msgid ""
 "Comma separated list of additional flags for ancestor from: read_only, "
 "no_mru, output"
-msgstr ""
+msgstr "Список разделенный запятой дополнительных флагов для предка: read_only, "
+"no_mru, output"
 
 msgid ""
 "Comma separated list of additional flags for left from: read_only, no_mru, "
 "output"
-msgstr ""
+msgstr "Список разделенный запятой дополнительных флагов для левого: read_only, "
+"no_mru, output"
 
 msgid "Comma separated list of additional flags for result from: no_mru"
-msgstr ""
+msgstr "Список разделенный запятой дополнительных флагов для результата: read_only, "
+"no_mru, output"
 
 msgid ""
 "Comma separated list of additional flags for right from: read_only, no_mru, "
 "output"
-msgstr ""
+msgstr "Список разделенный запятой дополнительных флагов для правого: read_only, "
+"no_mru, output"
 
 msgid "Commands"
-msgstr ""
+msgstr "Комманды"
 
 msgid "Comment"
-msgstr ""
+msgstr "Комментарий"
 
 msgid "Comment:"
-msgstr ""
+msgstr "Комментарий:"
 
 msgid "Compact XML..."
-msgstr ""
+msgstr "Уменьшить XML..."
 
 msgid "Compact at save time:"
-msgstr ""
+msgstr "Компактный по экономии времени:"
 
 msgid "Compare To $0"
-msgstr ""
+msgstr "Сравнить с $0"
 
 msgid "Compare Together"
-msgstr ""
+msgstr "Сравнить вместе"
 
 msgid "Compare again"
-msgstr ""
+msgstr "Сравнить опять"
 
 msgid "Compare all sub-folders"
-msgstr ""
+msgstr "Сравнить все поддиректории"
 
 msgid "Compare file contents if date/size did not determine its status"
-msgstr ""
+msgstr "Сравнить содержимое файла если дата/размер не определяет его статус"
 
 msgid "Compare files and folders names case-sensitively"
-msgstr ""
+msgstr "Сравнить имена файлов и директорий с учтом регистра"
 
 msgid "Compare files content when metadata are not enough"
-msgstr ""
+msgstr "Сравнить содержимое файлов если метаданных не достаточно"
 
 msgid "Compare with $0 as Ancestor"
-msgstr ""
+msgstr "Сравнить $0 с предком"
 
 msgid "Comparison Statistics"
-msgstr ""
+msgstr "Статистика сравнения"
 
 msgid "Comparison Type"
-msgstr ""
+msgstr "Тип сравнения"
 
 msgid "Comparison error"
-msgstr ""
+msgstr "Ошибка сравнения"
 
 msgid "Comparison errors"
-msgstr ""
+msgstr "Ошибки сравнения"
 
 msgid "Comparison not computed"
-msgstr ""
+msgstr "Сравнения не произведено"
 
 msgid "Comparison result"
-msgstr ""
+msgstr "Результат сравнения"
 
 msgid "Comparison type (hidden)"
-msgstr ""
+msgstr "Тип сравнения (скрытый)"
 
 msgid "Comparison type:"
-msgstr ""
+msgstr "Тип сравнения:"
 
 msgid "Comparison wizard"
 msgstr ""
