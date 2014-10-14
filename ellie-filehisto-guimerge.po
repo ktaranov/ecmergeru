@@ -4979,9 +4979,8 @@ msgid ""
 "between parentheses rather than the entire expression"
 msgstr ""
 
-
 msgid "When dropping 2 or 3 items:"
-msgstr "Когда сброшены 2 или объекта:"
+msgstr "Когда сброшены 2 или 3 объекта:"
 
 msgid ""
 "When loading a named session, accept any change from the application's "
@@ -4991,16 +4990,16 @@ msgstr ""
 "набор настроек"
 
 msgid "When merge is applicable"
-msgstr "Когда слияние допустимо"
+msgstr "Когда слияние применимо"
 
 msgid "When merge is not applicable"
-msgstr ""
+msgstr "Когда слияние не применимо"
 
 msgid "When negated, excludes all sub-folders"
 msgstr "При отрицании исключить все поддиректории"
 
 msgid "When previous rules do not define the encoding"
-msgstr "Когда предыдущие правила не описывать кодировку"
+msgstr "Когда предыдущие правила не описывают кодировку"
 
 msgid "When starting ECMerge, show:"
 msgstr "При запуске ECMerge показать:"
