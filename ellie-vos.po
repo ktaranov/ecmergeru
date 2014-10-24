@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Advanced Server "
-msgstr "Продвинутый Сервер "
+msgstr " Продвинутый Сервер "
 
 msgid " Datacenter Edition "
 msgstr "Версия Датацентр "
@@ -25,16 +25,16 @@ msgid " Datacenter Server "
 msgstr " Датацентр Сервер "
 
 msgid " Enterprise Edition "
-msgstr "Промышленное издание"
+msgstr " Промышленное издание"
 
 msgid " Home Edition "
-msgstr "Домашнее Изадание"
+msgstr " Домашнее Изадание"
 
 msgid " OSR2"
 msgstr ""
 
 msgid " Professional "
-msgstr "Профессиональный"
+msgstr " Профессиональный "
 
 msgid " SE"
 msgstr ""
@@ -719,7 +719,8 @@ msgid ""
 "in CVOSTextFile::PutString, cannot convert string exactly to file output "
 "encoding"
 msgstr ""
-"в CVOSTextFile::PutString невозможно преобразовать строку точно в кодировке файла вывода"
+"в CVOSTextFile::PutString невозможно преобразовать строку точно в кодировке "
+"файла вывода"
 
 msgid "in VosByteStream"
 msgstr "в VosByteStream"
@@ -740,7 +741,6 @@ msgid ""
 "invalid $2 character found, at end of '$0', a dump was generated in folder $1"
 msgstr ""
 "недействительный $2 символ найден, в конце '$0', дамп был сгенерирован в директории $ 1"
-""
 
 msgid "invalid colour code"
 msgstr "недействительный код цвета"
