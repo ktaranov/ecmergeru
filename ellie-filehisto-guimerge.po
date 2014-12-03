@@ -168,7 +168,7 @@ msgid "&Decimal"
 msgstr "&Десятичный"
 
 msgid "&Difference"
-msgstr "&Разница"
+msgstr "&Различие"
 
 msgid "&Document"
 msgstr "&Документ"
@@ -435,7 +435,7 @@ msgid "2-way merge"
 msgstr "2-х стороннее слияние"
 
 msgid "2-way or 3-way?"
-msgstr ""
+msgstr "2-х стороннее или 3-х сторонее"
 
 msgid "2-way rules"
 msgstr "правила 2-х стороннего"
@@ -447,13 +447,13 @@ msgid "200%"
 msgstr ""
 
 msgid "3-way"
-msgstr ""
+msgstr "3-х стороннее"
 
 msgid "3-way merge"
-msgstr ""
+msgstr "3-х стороннее слияние"
 
 msgid "3-way rules"
-msgstr ""
+msgstr "правила 3-х стороннего"
 
 msgid "3/3"
 msgstr ""
@@ -469,8 +469,8 @@ msgid ""
 "A new version of the software may be available. Do you want to check it now "
 "on Ellié Computing website?"
 msgstr ""
-"Новая версия программы возможно доступна. Вы хотите проверить это "
-"сейчас на сайте Ellié Computing?"
+"Новая версия программы возможно доступна. Вы хотите проверить это сейчас "
+"на сайте Ellié Computing?"
 
 msgid ""
 "A session saves the state of a comparison with its URLs and options sets.\n"
@@ -478,7 +478,8 @@ msgid ""
 "equivalent of an ECMT file."
 msgstr ""
 "Сессия сохранила сравнение данных URLs и установленных настроек.\n"
-"аналог ECMT файла."
+"Это происходит автоматически при закрытии сравнения. Это является "
+"аналогом ECMT файла."
 
 msgid "About Ellie Computing Merge"
 msgstr "О Ellié Computing Merge"
@@ -854,7 +855,7 @@ msgid "ChoiceItem"
 msgstr "Выбор"
 
 msgid "Choose \"2-way\" when you only have 2 items to compare."
-msgstr "Выберите \"2-way\" только когда вы имеете 2 объекта для сравнения."
+msgstr "Выберите \"2-х стороннее\" только когда вы имеете 2 объекта для сравнения."
 
 msgid ""
 "Choose \"3-way\" when you know/have access to a common ancestor, i.e., an "
@@ -864,7 +865,7 @@ msgid ""
 "or a SCC item (using date/label detail or automatically provided by your "
 "SCC), or a ZIP\n"
 "snapshot of a folder tree."
-msgstr "Выберите \"3-way\ только когда вы знаете основного предка, т.е. "
+msgstr "Выберите \"3-х стороннее\ только когда вы знаете основного предка, т.е. "
 "старая\n"
 "версия от левой и правой версии вырезана. Это может быть файл или "
 "директория выбранная вами \n"
@@ -875,13 +876,13 @@ msgstr "Выберите \"3-way\ только когда вы знаете ос
 msgid ""
 "Choose \"Diff\" when you wish to compare files/folders without\n"
 "editing any source."
-msgstr "Выберите \"Diff\" только когда вы хотите сравнить файлы/директории без\n"
+msgstr "Выберите \"Различие\" только когда вы хотите сравнить файлы/директории без\n"
 "редактирования любого источника."
 
 msgid ""
 "Choose \"Merge\" when you wish to combine files/folders content\n"
 "into one or several target locations."
-msgstr "Выберите \"Merge\" только когда вы хотите объединить содержимое файлов/директорий\n"
+msgstr "Выберите \"Слияние\" только когда вы хотите объединить содержимое файлов/директорий\n"
 "в одно или несколько местоположений."
 
 msgid "Choose Character Encoding"
@@ -1082,10 +1083,10 @@ msgstr ""
 "Предполагается что файлы с одинаковой датой и совпадающим размером являются одинаковыми"
 
 msgid "Consider pixels as equal if difference is less than"
-msgstr "Предполагается что пиксель является тем же если разница менее чем"
+msgstr "Предполагается что пиксель является тем же если различие менее чем"
 
 msgid "Consider pixels as totally different if difference is greater than"
-msgstr "Предполагается что пиксель является совершенно другим если разница более чем"
+msgstr "Предполагается что пиксель является совершенно другим если различие более чем"
 
 msgid "Console:"
 msgstr "Консоль:"
@@ -1345,10 +1346,10 @@ msgid "Destination path of the current action"
 msgstr "Путь для текущего действия"
 
 msgid "Diff"
-msgstr "Разница"
+msgstr "Различие"
 
 msgid "Diff &g; :"
-msgstr "Разница &g; :"
+msgstr "Различие &g; :"
 
 msgid "Diff Content"
 msgstr "Различие контента"
@@ -1989,7 +1990,7 @@ msgid "First offset to test:"
 msgstr "Первое смещение для тестирования:"
 
 msgid "Fixed difference"
-msgstr "Фиксировання разница"
+msgstr "Фиксированное различие"
 
 msgid "Folder"
 msgstr "Директория"
@@ -2004,7 +2005,7 @@ msgid "Folder 2-way merge rules"
 msgstr "Директория правила 2-направленного слияния"
 
 msgid "Folder 3-way merge rules"
-msgstr "Директория правила 3-направленного слияния"
+msgstr "Директория правила 3-х стороннего слияния"
 
 msgid ""
 "Folder Comparison XML/HTML reports can include embedded reports for files "
@@ -2906,7 +2907,7 @@ msgid "Named Sessions"
 msgstr "Именованные сессии"
 
 msgid "Named sessions are ECM? files that you save on disk by yourself."
-msgstr "Названные сессии являются ECM? файлами, которые ввы сохраняете сами на диск"
+msgstr "Именованные сессии являются ECM? файлами, которые ввы сохраняете сами на диск"
 
 msgid "Nautilus (Gnome)"
 msgstr "Nautilus (Gnome)"
@@ -2999,7 +3000,7 @@ msgid "No serial number registered.\n"
 msgstr "Нет серийного зарегистрированного номера.\n"
 
 msgid "Normal diff, without context"
-msgstr "Нормальная разница, без контекста"
+msgstr "Нормальное различие, без контекста"
 
 msgid "Normal viewing (1:1)"
 msgstr "Нормальный просмотр (1:1)"
@@ -3380,7 +3381,7 @@ msgid "Previous Conflict"
 msgstr "Предыдущий Конфликт"
 
 msgid "Previous Difference Inside Line"
-msgstr "Предыдущая Разница Внутри Строки"
+msgstr "Предыдущее Различие Внутри Строки"
 
 msgid "Previous Unresolved Conflict"
 msgstr "Предыдущий Неразрешенный Конфликт"
@@ -3389,7 +3390,7 @@ msgid "Previous conflict"
 msgstr "Предыдущий конфликт"
 
 msgid "Previous difference"
-msgstr "Предыдущая разница"
+msgstr "Предыдущее различие"
 
 msgid "Previous unresolved conflict"
 msgstr "Предыдущий неразрешенный конфликт"
@@ -4388,7 +4389,7 @@ msgid ""
 "your comparison sessions, let you manage FTP/S and SCC sites, workspaces, "
 "named sessions..."
 msgstr ""
-"Запускатель помогает вам управлять вашими сравнениями. Он сохраняет автоматически все "
+"Загрущик помогает вам управлять вашими сравнениями. Он сохраняет автоматически все "
 "ваши сессии сравнения, позволяя вам управлять FTP/S и SCC сайтам, рабочими местам, "
 "именованными сессиями..."
 
@@ -4626,7 +4627,7 @@ msgid "Timestamp comparison"
 msgstr "Сравнение временных отметок"
 
 msgid "Timestamp difference"
-msgstr "Разница во временных отметках"
+msgstr "Различие во временных отметках"
 
 msgid "Title"
 msgstr "Название"
@@ -4955,12 +4956,12 @@ msgid ""
 " \n"
 "Click Next to continue, or Cancel to exit the assistant."
 msgstr ""
-"Добро пожаловать в мастер \"New Session\".\n"
+"Добро пожаловать в мастер \"Новая сессия\".\n"
 " \n"
 "У вас будет возможность выбрать некоторые базовые элементы для настройки вашей "
 "сессии.\n"
 " \n"
-"Нажмите Следующий для продолжения, или Отмена для выхода из ассистента."
+"Нажмите Далее для продолжения, или Отмена для выхода из ассистента."
 
 msgid ""
 "When a temporary copy of an options set is made, isolate it from shared "
@@ -5904,55 +5905,55 @@ msgid "you must specify a location where to save the document or the report."
 msgstr "вы должны описать местоположение для сохранения документа или отчета."
 
 msgid "{Automatic}Auto"
-msgstr "Auto"
+msgstr "Автоматически"
 
 msgid "{Changes}All"
-msgstr "All"
+msgstr "Все"
 
 msgid "{FileAttr}Compressed"
 msgstr "Compressed"
 
 msgid "{FileAttr}Execute"
-msgstr "Execute"
+msgstr "Выполняемый"
 
 msgid "{FileAttr}Group"
-msgstr "Group"
+msgstr "Группа"
 
 msgid "{FileAttr}Hidden"
-msgstr "Hidden"
+msgstr "Скрытый"
 
 msgid "{FileAttr}Others"
-msgstr "Others"
+msgstr "Другие"
 
 msgid "{FileAttr}Read"
-msgstr "Read"
+msgstr "Чтение"
 
 msgid "{FileAttr}To be archived"
-msgstr "To be archived"
+msgstr "Архивный"
 
 msgid "{FileAttr}User"
-msgstr "User"
+msgstr "Пользователь"
 
 msgid "{FileAttr}Write"
-msgstr "Write"
+msgstr "Записать"
 
 msgid "{Generic Copy Action}Binary Copy"
-msgstr "Binary Copy"
+msgstr "Бинарное копирование"
 
 msgid "{Generic Copy Action}Copy"
-msgstr "Copy"
+msgstr "Копировать"
 
 msgid "{Generic Copy Action}Custom"
-msgstr "Custom"
+msgstr "Настроить"
 
 msgid "{Generic Copy Action}Mirror"
-msgstr "Mirror"
+msgstr "Зеркало"
 
 msgid "{Generic Copy Action}Update"
-msgstr "Update"
+msgstr "Обновить"
 
 msgid "{Sessions}Auto"
-msgstr "Auto"
+msgstr "Авто"
 
 msgid "{daysagofilterstart}"
 msgstr ""
@@ -5970,16 +5971,16 @@ msgid "{gorrywin2kfix}"
 msgstr ""
 
 msgid "{open limit}When opening more than"
-msgstr "When opening more than"
+msgstr "При открытии более чем"
 
 msgid "{open limit}views:"
-msgstr "views:"
+msgstr "действие:"
 
 msgid "{source of patch}absent"
-msgstr "absent"
+msgstr "без"
 
 msgid "{source of patch}present"
-msgstr "present"
+msgstr "настоящий"
 
 #~ msgid "Ellié Computing - Merge tool"
 #~ msgstr "Ellié Computing - Merge tool"
